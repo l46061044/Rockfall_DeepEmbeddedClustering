@@ -1,6 +1,6 @@
 # Cluster Analysis of Slope Hazard Seismic Recordings Based Upon Unsupervised Deep Embedded Clustering
 
-**The demo codes are implement with tensorflow 2.5.0**
+The demo codes are implement in `tensorflow version : 2.5.0`.
 
 ## Download raw waveforms
 
