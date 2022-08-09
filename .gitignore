@@ -1,0 +1,6 @@
+# 檔案名稱 .gitignore
+
+# ignore x.npy y.npy file
+x.npy
+y.npy
+
