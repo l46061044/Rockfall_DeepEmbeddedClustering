@@ -11,5 +11,6 @@ dependencies:
   - pip
   - pip:
     - obspy
-    - tensorflow == 2.5.0
-    - sklearn == 0.24.1
+    - tensorflow==2.5.0
+    - scikit-learn==0.24.1
+    
