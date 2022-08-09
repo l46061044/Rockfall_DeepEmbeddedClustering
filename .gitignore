@@ -3,4 +3,8 @@
 # ignore x.npy y.npy file
 x.npy
 y.npy
+# ignore .ipynb_checlpoints
+.ipynb_checkpoints/
+__pycache__/
+
 
